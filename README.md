@@ -16,7 +16,7 @@ AI embracing social networks. It leverages AI and Token Bound Accounts to let us
 <br/>
 
 ### Project Files
-eth23_hh_subst: TheGraph substreams for this application <br />
+substreams: TheGraph substreams for this application <br />
 python-apis: AI APIs for model and content generation <br />
 app: Next.js frontend to interact with smart contracts and AI apis <br />
 
@@ -39,3 +39,6 @@ app: Next.js frontend to interact with smart contracts and AI apis <br />
    npm run dev
    ```
 
+<br />
+
+   [Video demo](https://youtu.be/bSFRHbp7co4?si=QKJ8Q6G8gEJoQmm5)
